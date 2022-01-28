@@ -1,0 +1,14 @@
+com\alex\entity\Vendors.class
+com\alex\batch\ItemsProcessor.class
+com\alex\batch\ItemsWriter.class
+com\alex\repository\ItemsRepository.class
+com\alex\controller\JobInvokerController.class
+com\alex\entity\Items.class
+com\alex\repository\VendorsRepository.class
+com\alex\batch\ItemsKeeperJob.class
+com\alex\batch\VendorsWriter.class
+com\alex\batch\VendorsProcessor.class
+com\alex\batch\VendorsReader.class
+com\alex\batch\ItemsReader.class
+com\alex\batch\VendorsKeeperJob.class
+com\alex\BatchApplication.class
